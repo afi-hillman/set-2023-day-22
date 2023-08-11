@@ -1,6 +1,6 @@
-# Node & Express API Starter For 2022 & 2023
+# Node S3 Clone
 
-_"A minimally opinionated node & express starter for 2022 & 2023"_
+_"By Afi Hillman"_
 
 This template is also used by my utility create-my-express on npm.
 
